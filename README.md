@@ -5,6 +5,10 @@
 - **Fish schooling behavior:** fish swim about the scene towards internal targets, and swim towards one another when nearby.
 - **Procedural sandscape:** takes in a flat plane and used FBM noise to produce a sandscape. Includes internally computer normals, self-shadowing, and fog.
 
+**Video Demo:** https://drive.google.com/open?id=1ZxDKu3u6NzgEuBBXQIDBFiSR2Ah3E-DU
+
+(Please note that the jumpy frames are due to low frame rate as a result of the high number of computations.)
+
 Corals Inspired by:
 http://pcg.fdg2015.org/papers/a_constructive_approach_for_the_generation_of_underwater_environments.pdf 
 
